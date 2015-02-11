@@ -16,7 +16,7 @@ void draw(){ //the instructions here are repeated in order
 
 
     
-    harold = harold + 2;
+    harold = harold + 5;
     println(harold);
     
     if(harold >= 100){ //test if harold has reached 100 yet
